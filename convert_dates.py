@@ -1,6 +1,6 @@
 import pandas as pd
 
-input_file = 'megamillions.csv'
+input_file = 'rows.csv'
 output_file = 'megamillions_formatted.csv'
 
 df = pd.read_csv(input_file)
